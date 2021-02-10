@@ -5,7 +5,7 @@
 
 ## Cyber Space AZ
 
-<p><em>Əlaqə üçün<a href="http://www.telegram.com/luciferxz">Lucifer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Əlaqə üçün <a href="http://t.me/luciferxz">Lucifer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 <a href="https://t.me/cyberspaceaz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
