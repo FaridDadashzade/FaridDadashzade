@@ -1,11 +1,11 @@
 
-## Salam  👋 Mən Farid
+## Salam! Mən Fərid 
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## Cyber Space AZ
+## C Y B Σ R
 
-<p><em>Əlaqə üçün <a href="http://t.me/luciferxz">Lucifer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Mənimlə əlaqə <a href="http://t.me/luciferxz">Lucifer</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 <a href="https://t.me/cyberspaceaz"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
@@ -23,5 +23,5 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Cyber Space AZ...  
 
-__Farid Dadashzade__
+__🇦🇿 C Y B Σ R 🇦🇿__
 
