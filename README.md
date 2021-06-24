@@ -6,5 +6,9 @@
 
 - 📫 Contact: [Telegram](https://t.me/faridxz).
 
+<details>
+  <summary>Stats</summary>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FaridDadashzade&show_icons=true&count_private=true&theme=dark)
+
+</details>
