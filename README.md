@@ -1,4 +1,12 @@
-### Hello, I am Farid
+----
+
+<p align="center">
+  <img src="your_cool_intro.gif" alt="" />
+</p>
+
+----
+
+# Hello! I am Farid
 
 ![](https://komarev.com/ghpvc/?username=fariddadashzade&color=565f89&style=flat)
 
