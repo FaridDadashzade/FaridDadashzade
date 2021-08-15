@@ -1,5 +1,5 @@
 python-telegram-bot>=13.7
 dateparser==1.0.0
-pymongo==3.11.0
+pymongo==3
 aiohttp>=2.2.5
 Pillow>=4.2.0
