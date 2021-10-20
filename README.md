@@ -20,3 +20,10 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=FaridDadashzade&show_icons=true&count_private=true&custom_title=Github%20statistika%20&theme=dark)
 
 </details>
+
+
+
+
+
+
+![Snake animation](https://github.com/FaridDadashzade/FaridDadashzade/blob/output/github-contribution-grid-snake.svg)
