@@ -19,7 +19,7 @@
 <details>
   <summary>Github Stats</summary>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaridDadashzade&&custom_title=İstifadə%20etdiyim%20dillə&show_icons=true&locale=en&layout=compact&theme=algolia" alt="FaridDadashzade" /> <img src="https://github-readme-stats.vercel.app/api?username=FaridDadashzade&show_icons=true&&custom_title=Github%20statistika%20&locale=en&theme=algolia" alt="FaridDadashzade" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaridDadashzade&&custom_title=İstifadə%20etdiyim%20dillər&show_icons=true&locale=en&layout=compact&theme=algolia" alt="FaridDadashzade" /> <img src="https://github-readme-stats.vercel.app/api?username=FaridDadashzade&show_icons=true&&custom_title=Github%20statistika%20&locale=en&theme=algolia" alt="FaridDadashzade" /></p>
 
 </details>
 
