@@ -13,7 +13,7 @@
 
 ![View](https://komarev.com/ghpvc/?username=fariddadashzade&color=565f89&custom_title=Izlenme&style=flat)
 
-- My main project: [C Y B Ξ R](https://github.com/FaridDadashzade/CyberUserBot).
+- My main project: [C Y B Ξ R](https://github.com/CyberUserBot/CyberUserBot).
 - You can reach me via [Telegram](https://t.me/FVREED).
 
 <details>
