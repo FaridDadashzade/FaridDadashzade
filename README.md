@@ -9,8 +9,6 @@
 
 ----
 
-# Hello! I am Farid
-
 ![View](https://komarev.com/ghpvc/?username=fariddadashzade&color=565f89&custom_title=Izlenme&style=flat)
 
 - My main project: [C Y B Ξ R](https://github.com/CyberUserBot/CyberUserBot).
