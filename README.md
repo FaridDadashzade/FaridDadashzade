@@ -9,15 +9,27 @@
 
 ----
 
-![View](https://komarev.com/ghpvc/?username=fariddadashzade&color=565f89&custom_title=Izlenme&style=flat)
+<p align="center">
+  <a href="https://github.com/FaridDadashzade">
+    <img src="https://komarev.com/ghpvc/?username=fariddadashzade&color=blue&style=flat-square">
+    
+  </a>
+  <a href="https://github.com/FaridDadashzade?tab=followers">
+    <img src="https://img.shields.io/github/followers/FaridDadashzade?color=blue&label=Followers&style=flat-square">
+    
+  </a>
+  <a href="https://github.com/FaridDadashzade?tab=stars">
+    <img src="https://img.shields.io/github/stars/FaridDadashzade?color=blue&label=Ulduzlar&style=flat-square">
+  </a>
+    
 
-- My main project: [C Y B Ξ R](https://github.com/CyberUserBot/CyberUserBot).
-- You can reach me via [Telegram](https://t.me/FVREED).
+  - My main project: [C Y B Ξ R](https://github.com/CyberUserBot/CyberUserBot).
+  - You can reach me via [Telegram](https://t.me/FVREED).
 
 <details>
   <summary>Github Stats</summary>
   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaridDadashzade&&custom_title=İstifadə%20etdiyim%20dillər&show_icons=true&locale=en&layout=compact&theme=dark" alt="FaridDadashzade" /> <img src="https://github-readme-stats.vercel.app/api?username=FaridDadashzade&show_icons=true&&custom_title=Github%20statistika%20&locale=en&theme=dark" alt="FaridDadashzade" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FaridDadashzade&show_icons=true&%20&locale=en&theme=dark&layout=compact" alt="FaridDadashzade" /></p>
 
 </details>
 
