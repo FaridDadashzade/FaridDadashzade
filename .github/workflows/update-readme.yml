@@ -15,3 +15,6 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.FVREED_TOKEN }}
+        with:
+          COMMIT_MSG: 'fvreed'
+          MAX_LINES: 10
