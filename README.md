@@ -4,7 +4,7 @@
 ----
 
 <p align="center">
-  <img src="your_cool_intro.gif" alt="FaridDadashzade" />
+  <img src="fvreed.gif" alt="FaridDadashzade" />
 </p>
 
 ----
@@ -22,9 +22,12 @@
     <img src="https://img.shields.io/github/stars/FaridDadashzade?color=blue&label=Ulduzlar&style=flat-square">
   </a>
     
+----
+### :zap: Recent activity
+<!--START_SECTION:activity-->
 
-  - My main project: [C Y B Ξ R](https://github.com/CyberUserBot/CyberUserBot).
-  - You can reach me via [Telegram](https://t.me/FVREED).
+<!--END_SECTION:activity-->
+----
 
 <details>
   <summary>Github Stats</summary>
