@@ -22,12 +22,7 @@
     <img src="https://img.shields.io/github/stars/FaridDadashzade?color=blue&label=Ulduzlar&style=flat-square">
   </a>
 
-----
-### :zap: Ən son:
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-----
 
 ----
 
