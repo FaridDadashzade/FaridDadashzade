@@ -23,11 +23,11 @@
   </a>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/FaridDadashzade/CyberUserBot/pull/10) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-2. 💪 Opened PR [#10](https://github.com/FaridDadashzade/CyberUserBot/pull/10) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-3. 🎉 Merged PR [#5](https://github.com/FaridDadashzade/whatscyber-npm/pull/5) in [FaridDadashzade/whatscyber-npm](https://github.com/FaridDadashzade/whatscyber-npm)
-4. 🎉 Merged PR [#4](https://github.com/FaridDadashzade/whatscyber-npm/pull/4) in [FaridDadashzade/whatscyber-npm](https://github.com/FaridDadashzade/whatscyber-npm)
-5. 🎉 Merged PR [#3](https://github.com/FaridDadashzade/whatscyber-npm/pull/3) in [FaridDadashzade/whatscyber-npm](https://github.com/FaridDadashzade/whatscyber-npm)
+1. 🎉 Merged PR [#4](https://github.com/FaridDadashzade/FaridDadashzade/pull/4) in [FaridDadashzade/FaridDadashzade](https://github.com/FaridDadashzade/FaridDadashzade)
+2. 🎉 Merged PR [#10](https://github.com/FaridDadashzade/CyberUserBot/pull/10) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+3. 💪 Opened PR [#10](https://github.com/FaridDadashzade/CyberUserBot/pull/10) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+4. 🎉 Merged PR [#5](https://github.com/FaridDadashzade/whatscyber-npm/pull/5) in [FaridDadashzade/whatscyber-npm](https://github.com/FaridDadashzade/whatscyber-npm)
+5. 🎉 Merged PR [#4](https://github.com/FaridDadashzade/whatscyber-npm/pull/4) in [FaridDadashzade/whatscyber-npm](https://github.com/FaridDadashzade/whatscyber-npm)
 <!--END_SECTION:activity-->
 
 ----
