@@ -23,8 +23,8 @@
   </a>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/FaridDadashzade/CyberUserBot/pull/13) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-2. 💪 Opened PR [#13](https://github.com/FaridDadashzade/CyberUserBot/pull/13) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+1. ❌ Closed PR [#1](https://github.com/FaridDadashzade/cyberdata/pull/1) in [FaridDadashzade/cyberdata](https://github.com/FaridDadashzade/cyberdata)
+2. 💪 Opened PR [#1](https://github.com/FaridDadashzade/cyberdata/pull/1) in [FaridDadashzade/cyberdata](https://github.com/FaridDadashzade/cyberdata)
 3. 🎉 Merged PR [#4](https://github.com/FaridDadashzade/FaridDadashzade/pull/4) in [FaridDadashzade/FaridDadashzade](https://github.com/FaridDadashzade/FaridDadashzade)
 4. 🎉 Merged PR [#10](https://github.com/FaridDadashzade/CyberUserBot/pull/10) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
 5. 💪 Opened PR [#10](https://github.com/FaridDadashzade/CyberUserBot/pull/10) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
