@@ -23,11 +23,11 @@
   </a>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/FaridDadashzade/CyberUserBot/pull/14) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-2. ❌ Closed PR [#12](https://github.com/FaridDadashzade/CyberUserBot/pull/12) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-3. ❌ Closed PR [#11](https://github.com/FaridDadashzade/CyberUserBot/pull/11) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-4. ❌ Closed PR [#5](https://github.com/FaridDadashzade/deploy/pull/5) in [FaridDadashzade/deploy](https://github.com/FaridDadashzade/deploy)
-5. 🗣 Commented on [#5](https://github.com/FaridDadashzade/FaridDadashzade/issues/5) in [FaridDadashzade/FaridDadashzade](https://github.com/FaridDadashzade/FaridDadashzade)
+1. 🎉 Merged PR [#16](https://github.com/FaridDadashzade/CyberUserBot/pull/16) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+2. 💪 Opened PR [#16](https://github.com/FaridDadashzade/CyberUserBot/pull/16) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+3. 🎉 Merged PR [#15](https://github.com/FaridDadashzade/CyberUserBot/pull/15) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+4. 💪 Opened PR [#15](https://github.com/FaridDadashzade/CyberUserBot/pull/15) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
+5. 🎉 Merged PR [#14](https://github.com/FaridDadashzade/CyberUserBot/pull/14) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
 <!--END_SECTION:activity-->
 
 ----
