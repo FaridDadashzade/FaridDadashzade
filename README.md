@@ -63,3 +63,6 @@
 </details>
 
 ----
+   
+![Metrics](https://metrics.lecoq.io/FaridDadashzade?template=classic&activity=1&achievements=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FBaku)
+   
