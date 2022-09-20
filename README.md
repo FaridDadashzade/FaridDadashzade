@@ -1,15 +1,5 @@
 <h2 align="center">I may be quiet, but I have so much on my mind.</h2>
 
-----
-
-<p align="center">
-  <img src="images/fvreed.gif" alt="FaridDadashzade" />
-
-</p>
-
-----
-
-
 <p align="center">
   <a href="https://github.com/FaridDadashzade">
     <img src="https://komarev.com/ghpvc/?username=fariddadashzade&color=blue&style=flat-square">
