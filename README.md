@@ -22,7 +22,10 @@
   <a href="https://github.com/FaridDadashzade?tab=stars">
     <img src="https://img.shields.io/github/stars/FaridDadashzade?color=blue&label=Ulduzlar&style=flat-square">
   </a>
-
+  
+<div align="center">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ludpz9pikn34ptlf8zrinqc4&cover_image=false&theme=default&bar_color_cover=true" />
+  </div>
   <hr>
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools </b> 🔥</h2>
   <br>
@@ -53,16 +56,14 @@
 <!--END_SECTION:activity-->
 
 ----
-
+<div align="center">
 <details>
-  <summary>Github Stats</summary>
+  <summary><b>🎉 Github Stats</b></summary>
 
  <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=FaridDadashzade&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
 <img src="https://activity-graph.herokuapp.com/graph?username=FaridDadashzade&theme=react-dark&bg_color=000000&hide_border=true&color=00f3e3&point=ff8800&line=00f3e3" width="100%"/>
 
 </details>
+</div>
 
 ----
-   
-![Metrics](https://metrics.lecoq.io/FaridDadashzade?template=classic&activity=1&achievements=1&base.indepth=false&base.hireable=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FBaku)
-   
