@@ -32,8 +32,6 @@
     <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/FaridDadashzade/FaridDadashzade/master/images/docker.png"></code>
     <code><img title="Replit" height="30" src="https://raw.githubusercontent.com/FaridDadashzade/FaridDadashzade/master/images/repl.it.svg"></code>
     <code><img title="MongoDB" height="30" src="https://raw.githubusercontent.com/FaridDadashzade/FaridDadashzade/master/images/mongoDB.png"></code>
-    <code><img title="Redis" height="30" src="https://raw.githubusercontent.com/FaridDadashzade/FaridDadashzade/master/images/redis-cube.svg"></code>
-    <code><img title="Heroku" height="30" src="https://raw.githubusercontent.com/FaridDadashzade/FaridDadashzade/master/images/heroku.svg"></code>
   </p>
   <hr>
   
@@ -52,7 +50,6 @@
   <summary><b>🎉 Github Stats</b></summary>
 
  <p align="center"><img src=https://github-readme-stats.vercel.app/api?username=FaridDadashzade&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
-<img src="https://activity-graph.herokuapp.com/graph?username=FaridDadashzade&theme=react-dark&bg_color=000000&hide_border=true&color=00f3e3&point=ff8800&line=00f3e3" width="100%"/>
 
 </details>
 </div>
