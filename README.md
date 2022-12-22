@@ -1,5 +1,4 @@
-<h2 align="center">I may be quiet, but I have so much on my mind.</h2>
-
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=6ludpz9pikn34ptlf8zrinqc4&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
 <p align="center">
   <a href="https://github.com/FaridDadashzade">
@@ -14,9 +13,7 @@
     <img src="https://img.shields.io/github/stars/FaridDadashzade?color=blue&label=Ulduzlar&style=flat-square">
   </a>
   
-<div align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ludpz9pikn34ptlf8zrinqc4&cover_image=false&theme=default&bar_color_cover=true" />
-  </div>
+
   <hr>
   <h2 align="center">🔥 <b>Languages & Frameworks & Tools </b> 🔥</h2>
   <br>
