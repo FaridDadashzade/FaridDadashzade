@@ -1,5 +1,3 @@
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=6ludpz9pikn34ptlf8zrinqc4&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
-
 <p align="center">
   <a href="https://github.com/FaridDadashzade">
     <img src="https://komarev.com/ghpvc/?username=FaridDadashzade&color=blue&style=flat-square">
