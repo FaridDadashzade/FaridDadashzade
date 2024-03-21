@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/FaridDadashzade">
-    <img src="https://komarev.com/ghpvc/?username=fariddadashzade&color=blue&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=FaridDadashzade&color=blue&style=flat-square">
     
   </a>
   <a href="https://github.com/FaridDadashzade?tab=followers">
