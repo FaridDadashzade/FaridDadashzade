@@ -30,15 +30,6 @@
   </p>
   <hr>
   
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/FaridDadashzade/CyberUserBot/pull/24) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-2. 💪 Opened PR [#24](https://github.com/FaridDadashzade/CyberUserBot/pull/24) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-3. 🎉 Merged PR [#23](https://github.com/FaridDadashzade/CyberUserBot/pull/23) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-4. 💪 Opened PR [#23](https://github.com/FaridDadashzade/CyberUserBot/pull/23) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-5. 🎉 Merged PR [#22](https://github.com/FaridDadashzade/CyberUserBot/pull/22) in [FaridDadashzade/CyberUserBot](https://github.com/FaridDadashzade/CyberUserBot)
-<!--END_SECTION:activity-->
-
 ----
 <div align="center">
 <details>
