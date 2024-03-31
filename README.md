@@ -30,7 +30,7 @@
   </p>
   <hr>
   
-----
+
 <div align="center">
 <details>
   <summary><b>🎉 Github Stats</b></summary>
