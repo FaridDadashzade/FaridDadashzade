@@ -1,17 +1,39 @@
-name: Update README
+name: Get Hash
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' 
 
 jobs:
-  build:
+  auto_commit_hash:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.FVREED_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git config --global credential.helper store
+          echo "machine github.com login ${{ secrets.GH_USERNAME }} password ${{ secrets.FVREED_TOKEN }}" > ~/.git-credentials
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install beautifulsoup4 requests
+
+      - name: Run Python script
+        run: |
+          python hash.py  
+
+      - name: Commit and push changes
+        run: |
+          git add hash.json
+          git commit -m "UPDATE [HASH.JSON]"
+          git push
