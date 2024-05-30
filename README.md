@@ -1,4 +1,4 @@
-### Hello! I'm FVREED 👋
+### Hello! I'm FVREED 
 
 ---
 
