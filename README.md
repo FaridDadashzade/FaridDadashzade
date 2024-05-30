@@ -15,9 +15,6 @@
 
 **Recent Activity:**
 <!--START_SECTION:activity-->
-1. 📝 Created a new repository [FVREED/new-repo](https://github.com/FVREED/new-repo)
-2. 🎉 Merged PR #123 in [FVREED/another-repo](https://github.com/FVREED/another-repo)
-3. 💬 Commented on issue #456 in [FVREED/some-repo](https://github.com/FVREED/some-repo)
 <!--END_SECTION:activity-->
 
 ---
