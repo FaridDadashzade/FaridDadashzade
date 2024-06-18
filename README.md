@@ -13,9 +13,7 @@
 
 ---
 
-**Recent Activity:**
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<a href="https://github.com/fariddadashzade"><img src="https://raw.githubusercontent.com/fariddadashzade/fariddadashzade/main/github-metrics.svg" alt="Metrics"></a>
 
 ---
 
