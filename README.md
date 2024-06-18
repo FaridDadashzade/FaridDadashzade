@@ -17,12 +17,6 @@
 
 ---
 
- <p><img src=https://github-readme-stats.vercel.app/api?username=FaridDadashzade&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=True&locale=en&icon_color=00c1b1&text_color=dddddd&title_color=00f3e3&hide_border=true"/>
-
-</details>
-
----
-
 **Contact Me:**
 
 [![Twitter](https://img.shields.io/badge/Twitter-333333?style=flat&logo=twitter)](https://twitter.com/xfvreed)
