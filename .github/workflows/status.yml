@@ -11,6 +11,6 @@ jobs:
     steps:
       - name: Status
         run: |
-          curl -X POST https://fullbots.vercel.app/up/status \
+          curl -X POST https://allsaver-api.onrender.com/up/status \
           -H "X-API-Key: ${{ secrets.API_KEY }}" \
           -H "Content-Type: application/json" 
