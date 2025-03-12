@@ -1574,7 +1574,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 660k out of 158m users</span>
+                                    <span class="gh">ranked 661k out of 158m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">25</div>
                                     </div>
@@ -1706,7 +1706,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2025, 04:59:48 (timezone Asia/Baku) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2025, 06:22:14 (timezone Asia/Baku) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
